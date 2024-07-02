@@ -1,4 +1,4 @@
-# InternSavy_DataAnalysis
+# DataAnalysis
 
 ## Description: 
 The InternSavy_DataAnalysis project is a comprehensive exploration into the world of data science through three distinct Jupyter Notebooks. Each notebook is dedicated to a unique aspect of data analysis, providing insights and predictive models that can be leveraged for academic and commercial purposes.
